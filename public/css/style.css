@@ -37,6 +37,11 @@ img {
 
 }
 
+.card-img-top {
+  max-height: 50px
+
+}
+
 .wrapper {
 
   min-height: 100%;
