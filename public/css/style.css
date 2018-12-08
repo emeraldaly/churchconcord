@@ -143,8 +143,9 @@ a:active {
 }
 
 .footer-distributed .footer-company-name{
-  color:  #8f9296;
-  font-size: 14px;
+  line-height: 20px;
+  color:  #ffffff;
+  font-size: 13px;
   font-weight: normal;
   margin: 0;
 }
