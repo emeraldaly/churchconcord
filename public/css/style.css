@@ -135,6 +135,13 @@ a:active {
   color:  inherit;
 }
 
+.footer-distributed .footer-address{
+  color:  #8f9296;
+  font-size: 14px;
+  font-weight: normal;
+  margin: 0;
+}
+
 .footer-distributed .footer-company-name{
   color:  #8f9296;
   font-size: 14px;
