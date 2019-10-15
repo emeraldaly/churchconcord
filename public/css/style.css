@@ -116,6 +116,8 @@ text-align: center;
 
 }
 
+body { padding-top: 20px;}
+
   /* unvisited link */
 a:link {
     color: black;
