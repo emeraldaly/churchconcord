@@ -61,6 +61,26 @@ p {
   border:;
 }
 
+.float {
+
+  float: left;
+  padding-right: 20px;
+}
+.carousel-inner img {
+      width: 100%;  /*Set width to 100%*/ 
+      min-height: 200px;
+    
+    
+}
+    }
+
+    /* Hide the carousel text when the screen is less than 600 pixels wide */
+    @media (max-width: 600px) {
+      .carousel-caption {
+        display: none; 
+      }
+    }
+
 .logo-block {
   max-width:150px;
   display: block;
