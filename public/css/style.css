@@ -76,7 +76,7 @@ p {
 .carousel-center img {
   margin: auto;
   width: 100%;  /*Set width to 100%*/ 
-  min-height: 200px;
+  height: 200px;
 }
     
 
