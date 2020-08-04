@@ -266,7 +266,7 @@ a:active {
     position: relative;
     overflow: hidden;
     padding-top: 56.25%;
-    padding-bottom: 56.25%;
+    padding-bottom: 30px;
 }
 .resp-iframe {
     position: absolute;
@@ -274,7 +274,6 @@ a:active {
     left: 0;
     width: 100%;
     height: 100%;
-    border: 20;
 }
 }
 
